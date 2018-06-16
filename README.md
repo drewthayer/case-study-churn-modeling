@@ -1,5 +1,6 @@
 <img alt="intro" src="figs/Predicted Churn.png" width='500'>
 
+DSI case study: Drew T., Chris S. Tyson W.
 
 
 ### approach
@@ -89,8 +90,6 @@ Interesting to note that boosting and tree method selected a key group of featur
  - luxury car user
 
 <img alt="partial depend" src="figs/feature importance gb rf.png" width='500'>
-
-<<<<<<< HEAD
 ___
 <img alt="partial depend" src="figs/partial_d_6.png" width='500'>
 
@@ -104,9 +103,6 @@ __Partial dependency plots__ can be used to interpret each feature's contributio
 
 <img alt="partial depend" src="figs/partial_d_6.png" width='500'>
 
-### Feature Importance with Decision Tree
-
-<img alt="partial depend" src="figs/tree.png" width='500'>
 
 ### Choosing a model
 A __Receiver Operating Characteristic__ plot allows us to assess performance in terms of precision. The area under the curve = the accuracy (1 would be a perfect model, 0.5 would be a useless model). __why are auc's better than our accuracy scores?__
